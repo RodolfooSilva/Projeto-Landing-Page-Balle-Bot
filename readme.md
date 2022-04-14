@@ -4,7 +4,7 @@
 * Nesse projrto, foi desenvolvido HTML,CSS.
 
 * Esse projeto foi baseado no tutorial do canal,  
-[Rafaballerini](https://github.com/rafaballerini/frontbox-statter-files) 
+[Rafaballerini](https://github.com/www.youtube.com/watch?v=llF6vD-RljE/frontbox-statter-files) 
   
  * Quais tecnlogias foram utilizadas? (HTML, CSS, FLEXBOX,)
   
